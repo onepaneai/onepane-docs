@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkonepane_docs=self.webpackChunkonepane_docs||[]).push([[1006],{9570:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/onepane-docs/build/blog/tags/facebook","allTagsPath":"/onepane-docs/build/blog/tags","count":1}')}}]);
