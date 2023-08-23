@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Onepane docs',
   tagline: 'Onepane for observability',
-  favicon: 'img/favicon.jpeg',
+  favicon: 'img/favicon.png',
 
   // Set the production url of your site here
   url: 'https://onepaneai.github.com',
@@ -59,17 +59,17 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        // title: 'Onepane ',
+        title: 'Onepane ',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/onepane_logo.png',
+          src: 'img/icon.jpeg',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Connectors',
+            label: 'Docs',
           },
           {
             href: 'https://github.com/onepaneai',
