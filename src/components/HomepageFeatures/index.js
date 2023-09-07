@@ -4,29 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Monitor Smarter and Faster',
+    title: 'Optimize resource allocation',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        No need to investigate with multiple tools. OP provides a single interface bringing together relevant data from your tool chain.
+        End the hunt for a tool that gives complete cloud resource visibility. OP's unified interface collects all resource data and fixes missing info with smart tagging.
       </>
     ),
   },
   {
-    title: 'Unified view of incidents',
+    title: 'Easy cloud governance',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Escape naming inconsistencies enforce gover- nance with OP's standardised naming via semi-automated discovery and smart tagging in existing setups.
+        Escape naming inconsistencies by enforcing compliance to your policies. OP standardises naming conventions using discovery and smart tagging - even in existing setups
       </>
     ),
   },
   {
-    title: 'Overview for your cloud',
+    title: 'Faster incident management',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        End the hunt for a tool that give complete cloud resource visibility OP's unified interface collects all resource data and fixes missing info with smart tagging.
+        No need to investigate with multiple tools. OP provides a single interface bringing together relevant data from your tool chain.
       </>
     ),
   },

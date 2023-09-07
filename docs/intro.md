@@ -4,48 +4,42 @@ sidebar_position: 1
 
 # Getting started
 
-Let's discover **Onepane in less than 5 minutes**.
+Welcome to Onepane, your trusted partner in revolutionizing the way you manage and optimize your cloud resources. Onepane is a cutting-edge SaaS software product designed to empower businesses across various cloud platforms. Our mission is to provide you with the tools and insights necessary to harness the full potential of your cloud infrastructure.
 
 ## What is onepane?
 
-Generate a new Docusaurus site using the **classic template**.
+Onepane employs intelligent algorithms to suggest and enforce standardized naming conventions for your cloud resources. It also allows you to set up smart tags based on specific criteria, making resource management and tracking more efficient.
 
-The classic template will automatically be added to your project after you run the command:
+By unifying incidents across cloud environments, Onepane provides a centralized platform to manage and resolve incidents more efficiently. The enhanced visibility into resources helps in diagnosing issues and reducing downtime.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
+Onepane offers a comprehensive dashboard that provides real-time insights into your cloud resources' status, usage, and performance. This visibility helps in making informed decisions regarding resource allocation and optimization.
 
 ## why onepane ?
 
-Generate a new Docusaurus site using the **classic template**.
 
-The classic template will automatically be added to your project after you run the command:
+Reduce your down time with help of AI-Powered Root cause analysis.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Efficiently allocate cloud resources with Onepane's resource allocation optimization feature, which enables you to make the most of your cloud resources, striking the right balance between cost saving and operational efficiency. [Learn more...](https://www.onepane.ai/solutions/optimize-resource-allocation)
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+With Onepane, you can effortlessly guarantee consistency and regulatory alignment of your cloud by enforcing standardized naming and tagging practices. The resulting compliance visibility makes resource management easy. [Learn more...](https://www.onepane.ai/solutions/easy-cloud-governance)
+
+
+Organizations have multiple tools to manage incidents (monitoring tool, APM, and other tools). Onepane consolidates alerts, and resource info from all the tools to create incidents. The incidents are then mapped to the right resources, helping teams accelerate incident resolution [Learn more...](https://www.onepane.ai/solutions/faster-incident-management)
+
+
 
 ## How onepane does things ?
 
-Run the development server:
+- Start by running a comprehensive cloud resource discovery by connecting your AWS or Azure accounts.
 
-```bash
-cd my-website
-npm run start
-```
+- Integrate DevOps and Monitoring stack for corelated and better insights
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+- Map projects to owners and standardize naming and tagging through the UI to easily enforce governance
+    - Verify projects, assign owners
+    - Ensure standardized naming and tags
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- Leave the rest to onepane
+    - Visualize and analyze cloud data
+    - Ensure governance compliance
+    - Expedite incident resolution
