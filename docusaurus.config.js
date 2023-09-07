@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Onepane docs',
-  tagline: 'Onepane for observability',
+  tagline: 'Helping Engineering Teams Organize Their Cloud',
   favicon: 'img/favicon.png',
 
   // Set the production url of your site here
@@ -58,16 +58,21 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      colorMode: {
+        // defaultMode: 'primary',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
       navbar: {
-        title: 'Onepane ',
+        title: '',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/icon.jpeg',
+          alt: 'Onepane logo',
+          src: 'images/logo/logo.svg',
         },
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'onepaneSidebar',
             position: 'left',
             label: 'Docs',
           },
@@ -118,7 +123,7 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Onepaneai, Inc. Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
+        theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
