@@ -1,7 +1,7 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
-# Pixie 
+# Connect pixie 
 
 Pixie is a cutting-edge observability platform designed to provide real-time insights into the performance and behavior of Kubernetes applications and microservices. Like its folklore namesake, Pixie grants an almost magical ability to uncover hidden insights and troubleshoot issues that may otherwise remain elusive within the vast and dynamic world of containerized applications.
 
