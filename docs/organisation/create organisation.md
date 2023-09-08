@@ -39,3 +39,5 @@ Welcome to onepane! In this guide, we will walk you through the steps to create 
 6. **Submit Your Organisation request**
 
    Click the "Proceed" button to submit your registration information. Once you created organisation you will be in queue and we will let you know when you can start with onepane platform.
+
+   ![Organisation card](/images/organisation/org_5.png)
