@@ -8,6 +8,7 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background-image: url('@site/static/images/main/banner.svg');
 }
 
 @media screen and (max-width: 996px) {
