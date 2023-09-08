@@ -1,7 +1,7 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
-# Azure
+# Connect azure
 
 The expansive Azure cloud platform encompasses over 200 products and cloud services meticulously crafted to facilitate the realization of innovative solutions. Its purpose is to not only address current challenges but also to pave the way for the future. Seamlessly spanning across various clouds, on-premises environments, and the edges of technology, Azure empowers you to construct, operate, and oversee applications.
 

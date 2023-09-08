@@ -1,7 +1,7 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
-# Newrelic
+# Newrelic prerequisites
 
 New Relic helps you understand the intricacies of your software in action. By collecting and analyzing data across your applications, infrastructure, and customer interactions, New Relic transforms complex metrics into actionable insights. These insights empower your teams to identify performance bottlenecks, optimize resource utilization, and enhance the overall user experience.
 
